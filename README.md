@@ -8,7 +8,7 @@ More details are available [here as a report](http://avisingh599.github.io/asset
 Note that this project is not yet capable of doing reliable relative scale estimation, 
 so the scale informaion is extracted from the KITTI dataset ground truth files.
 
-NOTE: This repository was forked from [](http://avisingh599.github.io)
+NOTE: This repository was forked from [Avi Singh's github account](http://avisingh599.github.io)
 
 ## Demo Video
 
