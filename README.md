@@ -18,7 +18,7 @@ Click on the GIF to go to the full youtube video.
 [![Demo video](https://j.gifs.com/ANpnAz.gif)](https://www.youtube.com/watch?v=jWXA3S96BgM)
 
 ### 2. Larger Dataset
-![Video](https://j.gifs.com/3QNlvn.gif)
+![Video](https://j.gifs.com/0YKgpG.gif)
 ## Requirements
 OpenCV 4.0 or above
 
