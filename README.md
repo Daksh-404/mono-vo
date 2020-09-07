@@ -18,9 +18,9 @@ Click on the GIF to go to the full youtube video.
 [![Demo video](https://j.gifs.com/ANpnAz.gif)](https://www.youtube.com/watch?v=jWXA3S96BgM)
 
 ### 2. Larger Dataset
-[![Demo Video](https://j.gifs.com/L7EgDW.gif)](https://www.youtube.com/watch?v=gX4M-NpAX5k)
+[![Video](https://j.gifs.com/L7EgDW.gif)](https://www.youtube.com/watch?v=gX4M-NpAX5k)
 ## Requirements
-OpenCV 3.0
+OpenCV 4.0 or above
 
 ## How to compile?
 Provided with this repo is a CMakeLists.txt file, which you can use to directly compile the code as follows:
