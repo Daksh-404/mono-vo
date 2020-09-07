@@ -12,7 +12,7 @@ NOTE: This repository was forked from [Avi Singh's github account](http://avisin
 
 ## Demo Video
 
-![Demo video](https://j.gifs.com/ANpnAz.gif)
+![Demo video](https://j.gifs.com/ANpnAz.gif)(https://www.youtube.com/watch?v=jWXA3S96BgM)
 
 
 ## Requirements
