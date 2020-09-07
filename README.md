@@ -12,7 +12,7 @@ NOTE: This repository was forked from [Avi Singh's github account](http://avisin
 
 ## Demo Video
 
-[![Demo video](http://share.gifyoutube.com/Ke1ope.gif)](http://www.youtube.com/watch?v=homos4vd_Zs)
+[![Demo video](<iframe src='//gifs.com/embed/motion-estimation-lx1OD5' frameborder='0' scrolling='no' width='1152px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>)](https://www.youtube.com/watch?v=jWXA3S96BgM)
 
 
 ## Requirements
